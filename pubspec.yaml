@@ -1,6 +1,6 @@
 name: otel_persona
 description: "Dartastic OpenTelemetry bridge for Persona (identity verification: inquiries, accounts, cases, reports, workflows)."
-version: 0.1.0-beta.2
+version: 0.1.0-beta.3-wip
 repository: https://github.com/dartastic/otel_persona
 homepage: https://dartastic.io
 publish_to: https://pub.dartastic.io
