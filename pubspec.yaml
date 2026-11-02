@@ -2,7 +2,7 @@ name: otel_persona
 description: >-
   OpenTelemetry instrumentation for persona by Dartastic.io. Adds standard
   OpenTelemetry observability to applications that use persona.
-version: 0.1.0-wip
+version: 0.1.0
 repository: https://github.com/dartastic/otel_persona
 homepage: https://dartastic.io
 
